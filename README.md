@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ssamurai97
 - 👀 I’m interested in web dev, and IOT
 - 🌱 I’m currently learning typescript and c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on  c++, javascript/typescript, and go projects.
+-  🗣 japanese language 
 - 📫 You can reach me kuchlong@gmail.com
 
 <!---
